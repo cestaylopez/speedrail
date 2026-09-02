@@ -39,3 +39,6 @@
 .idea/modules.xml
 .idea/*.iml
 .idea/vcs.xml
+
+# Local environment variables (Figaro)
+/config/application.yml
